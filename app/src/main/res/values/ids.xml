@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_main" type="id" />
+    <item name="activity_multiplicar" type="id" />
+    <item name="etNumero1" type="id" />
+    <item name="etNumero2" type="id" />
+    <item name="btnMultiplicar" type="id" />
+    <item name="tvResultado" type="id" />
+</resources>
